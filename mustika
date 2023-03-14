@@ -1,0 +1,38 @@
+#EXT3MU
+#EXTINF:-1 tvg-id="AstroWarna" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="Mustika",Astro Warna HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2402
+https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRsVB3PcKr8W1W7p6IsB018M=rd3C/dash-wv/jitp-linearwm/2402/default_ott.mpd
+      
+#EXTINF:-1 tvg-id="AstroWarna" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="Mustika",Astro Warna HD (A)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
+https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRsVB3PcKr8W1W7p6IsB018M=rd3C/dash-wv/jitp-linearwm/2402/default_ott.mpd
+ 
+#EXTINF:-1 tvg-id="AstroWarna" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="Mustika",Astro Warna HD (B)
+#EXTVLCOPT:http-user-agent=com.iptvliink.net
+#EXTVLCOPT:http-Icy-MetaData=1
+https://tinyurl.com/5n6cd6bt|referer=https://iplogger.com/2VAkG5
+#http://iptv12k.com:35461/7061m2d21007/838174756/9169
+#http://139.99.96.163:2095/live/User48278/tBw10zkne9/13.ts
+#https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142670.m3u8
+
+#EXTINF:-1 tvg-id="AstroWarna" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="Mustika",Astro Warna HD (C)
+#http://mxu03.wanicelife.com:8880/DFL122004/QADDAQ44/1706
+#http://iptv12k.com:35461/80203091402/213445/13628
+#https://nonton.site:8443/live/mustakim/mustakim/37335.m3u8
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/158349
+      
+      
+#EXTINF:-1 tvg-id="AstroCitra" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="Mustika",Astro Citra HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
+https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRmmRLRzKKUDyAXCVJlACAPM=ipfw/dash-wv/jitp-dashisowm/2700/default_ott.mpd
+#http://51.81.208.129:35461/706131218052/115769940/721
+#https://stream.zeehanzgadget.com/citra
+
+#EXTINF:-1 tvg-id="AstroCitra" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="Mustika",Astro Citra HD (A)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2700
+#https://aqfadtv.xyz/live/citra
+http://51.81.208.129:35461/7061m2d21007/838174756/13610
