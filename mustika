@@ -93,25 +93,13 @@ https://smart-tv.livedoomovies.com:4431/02_2sporthd4_720p/chunklist.m3u8|Referer
 https://smart-tv.livedoomovies.com:4431/02_sport5_480p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
 
 #EXTINF:-1 tvg-id="811" tvg-name="ASTRO SUPERSPORTS 1 HD TH MY" tvg-logo="" group-title="Thailand",ASTRO SUPERSPORTS 1 HD TH MY
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/601
-#https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
-http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=115615&extension=ts&play_token=kgKJ5bkM20
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=918986&extension=ts&play_token=1kEm8DbZmS
       
 #EXTINF:-1 tvg-id="812" tvg-name="ASTRO SUPERSPORTS 2 HD TH MY" tvg-logo="" group-title="Thailand",ASTRO SUPERSPORTS 2 HD TH MY
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2104
-#http://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default.mpd
-http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=115616&extension=ts&play_token=kgKJ5bkM20
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=918985&extension=ts&play_token=1kEm8DbZmS
       
 #EXTINF:-1 tvg-id="813" tvg-name="ASTRO SUPERSPORTS 3 HD TH MY" tvg-logo="" group-title="Thailand",ASTRO SUPERSPORTS 3 HD TH MY
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2701
-#http://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_primary.mpd
-http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=115617&extension=ts&play_token=kgKJ5bkM20
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=918984&extension=ts&play_token=1kEm8DbZmS
       
 #EXTINF:-1 tvg-id="814" tvg-name="ASTRO SUPERSPORTS 4 HD TH MY" tvg-logo="" group-title="Thailand",ASTRO SUPERSPORTS 4 HD TH MY
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2506
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
-http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=115618&extension=ts&play_token=kgKJ5bkM20
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=918983&extension=ts&play_token=1kEm8DbZmS
