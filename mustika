@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="AstroWarna" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="Mustika",Astro Warna HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2402
-https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRubg9FYOOnazRQGEp29NKkQ=cIez/dash-wv/jitp-linearwm/2402/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRisVwWXqjB9O9DV6i-GaOJ8=vf4T/dash-wv/jitp-linearwm/2402/default_ott.mpd
       
 EXTINF:-1 tvg-id="AstroWarna" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="Mustika",Astro Warna HD (A)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -26,7 +26,7 @@ http://iptvtree.net:8080/fee2bbca/12e32aafa1/158349
 #EXTINF:-1 tvg-id="AstroCitra" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="Mustika",Astro Citra HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
-https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRqeeS3x01pj_rR41zzH5cNs=s2dY/dash-wv/jitp-dashisowm/2700/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRiNxPY0pMyrFVEVDi_Oorg4=PUvB/dash-wv/jitp-dashisowm/2700/default_ott.mpd
 #http://51.81.208.129:35461/706131218052/115769940/721
 #https://stream.zeehanzgadget.com/citra
 
@@ -103,3 +103,5 @@ http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=918984&e
       
 #EXTINF:-1 tvg-id="814" tvg-name="ASTRO SUPERSPORTS 4 HD TH MY" tvg-logo="" group-title="Thailand",ASTRO SUPERSPORTS 4 HD TH MY
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=918983&extension=ts&play_token=1kEm8DbZmS
+
+
